@@ -1,0 +1,10 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="box1" >
+      <button class="btn1" bindtap="clickbtn1">管理员</button>
+  </view>
+  <view class="box2">
+        <button class="btn2" bindtap="clickbtn2">用户</button>
+    </view>
+  
+</view>

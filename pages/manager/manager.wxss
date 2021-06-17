@@ -1,0 +1,18 @@
+/* pages/manager/manager.wxss */
+.box1{
+  display: inline-grid;
+  height: 200rpx;
+  width: 200rpx;
+  background: burlywood;
+  border: black solid 5rpx;
+  margin: 20rpx;
+  border-radius: 30rpx;
+}
+.box{
+  padding-top: 150rpx;
+}
+.hover-box1{
+  height: 180rpx;
+  width: 180rpx;
+  margin: 30rpx;
+}

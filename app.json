@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/manager/manager",
+    "pages/user/user"
+  ],
+  
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#424242",
+    "navigationBarTitleText": "智能门禁系统"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
