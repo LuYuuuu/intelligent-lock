@@ -29,8 +29,6 @@
       "disablePlugins": [],
       "outputPath": ""
     },
-    "enableEngineNative": false,
-    "bundle": false,
     "useIsolateContext": true,
     "useCompilerModule": true,
     "userConfirmedUseCompilerModuleSwitch": false,
@@ -40,7 +38,7 @@
     "minifyWXSS": true
   },
   "compileType": "miniprogram",
-  "libVersion": "2.16.1",
+  "libVersion": "2.17.3",
   "appid": "wxb2f202566cfa104f",
   "projectname": "%E6%99%BA%E8%83%BD%E9%97%A8%E7%A6%81%E7%B3%BB%E7%BB%9F",
   "debugOptions": {
@@ -54,6 +52,8 @@
   "isGameTourist": false,
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
+  "cloudfunctionRoot": "cloudfunctions/",
+  "cloudfunctionTemplateRoot": "cloudfunctionTemplate",
   "condition": {
     "search": {
       "list": []

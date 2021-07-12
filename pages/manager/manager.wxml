@@ -1,11 +1,10 @@
 <view class="box">
-  <view class="box1" hover-class="hover-box1"></view>
-  <view class="box1" hover-class="hover-box1"></view>
-  <view class="box1" hover-class="hover-box1"></view>
-  <view class="box1" hover-class="hover-box1"></view>
-  <view class="box1" hover-class="hover-box1"></view>
-  <view class="box1" hover-class="hover-box1"></view>
-  <view class="box1" hover-class="hover-box1"></view>
-  <view class="box1" hover-class="hover-box1"></view>
-  <view class="box1" hover-class="hover-box1"></view>
+  <view class="box1" hover-class="hover-box1" bindtap="btn1">指纹解锁</view>
+  <view class="box1" hover-class="hover-box1" bindtap="btn2">二维码解锁</view>
+  <view class="box1" hover-class="hover-box1" bindtap="btn3">测试</view>
+  <view class="box1" hover-class="hover-box1" bindtap="btn4">门锁日记</view>
+  <view class="box1" hover-class="hover-box1" bindtap="btn5">给与权限
+  </view>
+  <view class="box1" hover-class="hover-box1" bindtap="btn6">临时权限
+  </view>
 </view>

@@ -1,8 +1,16 @@
 {
+  "cloud": true,
   "pages":[
     "pages/index/index",
     "pages/manager/manager",
-    "pages/user/user"
+    "pages/user/user",
+    "pages/zhiwen/zhiwen",
+    "pages/erweima/erweima",
+    "pages/control/control",
+    "pages/diary/diary",
+    "pages/give/give",
+    "pages/give2/give2",
+    "pages/up/up"
   ],
   
   "window":{

@@ -23,6 +23,42 @@
           "pathName": "pages/manager/manager",
           "query": "",
           "scene": null
+        },
+        {
+          "name": "pages/zhiwen/zhiwen",
+          "pathName": "pages/zhiwen/zhiwen",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/control/control",
+          "pathName": "pages/control/control",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/diary/diary",
+          "pathName": "pages/diary/diary",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/erweima/erweima",
+          "pathName": "pages/erweima/erweima",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/give/give",
+          "pathName": "pages/give/give",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "pages/up/up",
+          "pathName": "pages/up/up",
+          "query": "",
+          "scene": null
         }
       ]
     }

@@ -1,0 +1,6 @@
+<view class="box">
+  <button type="primary" bindtap="btn1">验证指纹</button>
+</view>
+<view class="txt">
+  解锁成功后会收到解锁成功提示，耐心等待即可，无需再次解锁。
+</view>

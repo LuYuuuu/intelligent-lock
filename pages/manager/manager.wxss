@@ -1,18 +1,24 @@
 /* pages/manager/manager.wxss */
 .box1{
   display: inline-grid;
-  height: 200rpx;
-  width: 200rpx;
-  background: burlywood;
+  height: 300rpx;
+  width: 300rpx;
+  background: #89DDFF;
   border: black solid 5rpx;
   margin: 20rpx;
   border-radius: 30rpx;
 }
 .box{
-  padding-top: 150rpx;
+  padding-top: 80rpx;
+  margin-left: 25rpx;
 }
 .hover-box1{
-  height: 180rpx;
-  width: 180rpx;
+  height: 280rpx;
+  width: 280rpx;
   margin: 30rpx;
+}
+.box1{
+  text-align: center;
+  line-height: 300rpx;
+  font-size: 30px;
 }

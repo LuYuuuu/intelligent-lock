@@ -1,0 +1,11 @@
+<view class="box">
+  <view class="box1" hover-class="hover-box1"></view>
+  <view class="box1" hover-class="hover-box1"></view>
+  <view class="box1" hover-class="hover-box1"></view>
+  <view class="box1" hover-class="hover-box1"></view>
+  <view class="box1" hover-class="hover-box1"></view>
+  <view class="box1" hover-class="hover-box1"></view>
+  <view class="box1" hover-class="hover-box1"></view>
+  <view class="box1" hover-class="hover-box1"></view>
+  <view class="box1" hover-class="hover-box1"></view>
+</view>

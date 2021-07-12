@@ -1,0 +1,11 @@
+.box{
+  margin-top: 450rpx;
+}
+.txt{
+  width: 450rpx;
+  font-size: 20px;
+  margin:0 auto;
+  margin-top: 40rpx;
+  text-align: center;
+  color: #B2B2B9;
+}

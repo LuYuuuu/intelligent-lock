@@ -1,9 +1,11 @@
 // app.js
 App({
-  onLaunch() {
+  onLaunch:function(){
+    wx.cloud.init({
+      env: 'first-a3dm0'
+    })
     
-    
-  },
-  globalData: {
   }
+  
+
 })

@@ -1,0 +1,10 @@
+<view class="box">
+  <form bindsubmit="btnsub">
+    <input class="box2" name="xingming" placeholder="请在此输入姓名"/>
+    
+    <input class="box2" name="mima" password="true" placeholder="请在此输入密码"/>
+    <button type="primary" form-type="submit" bindtap="btn">添加数据</button>
+    <button type="primary" form-type="reset">重置</button>
+
+  </form>
+</view>

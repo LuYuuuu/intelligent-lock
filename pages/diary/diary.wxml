@@ -1,0 +1,15 @@
+<view class="table">
+  
+  <view class="tr bg-w">
+    <view class="th">设备名称</view>
+    <view class="th">最后修改时间</view>
+    <view class="th ">值</view>
+  </view>
+  <block wx:for="{{name}}" wx:key="index">
+    <view class="tr bg-g">
+      <view class="td">{{name[index].id}}</view>
+      <view class="td">{{name[index].datapoints[0].at}}</view>
+      <view class="td">{{name[index].datapoints[0].value}}</view>
+    </view>
+  </block>
+</view>

@@ -1,0 +1,12 @@
+.box2{
+  margin: 20rpx;
+  font-size: 20px;
+  border: black 2px solid;
+  padding: 5px;
+}
+.box{
+  padding-top: 350rpx;
+}
+button{
+  margin: 5px;
+}

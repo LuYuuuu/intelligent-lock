@@ -1,0 +1,24 @@
+<view>
+  
+  <view class="LED">
+    <image src="{{imgsrc_red}}" class="img"></image>
+    <switch bindchange="changeRed">红灯</switch>
+  </view>
+  <view class="LED">
+    <image src="{{imgsrc_yellow}}" class="img"></image>
+    <switch bindchange="changeYellow">黄灯</switch>
+  </view>
+  <view class="LED">
+    <image src="{{imgsrc_blue}}" class="img"></image>
+    <switch bindchange="changeBlue">蓝灯</switch>
+  </view>
+  <view class="LED">
+    <image src="{{imgsrc_green}}" class="img"></image>
+    <switch bindchange="changeGreen">绿灯</switch>
+  </view>
+  <view class="LED">
+    <image src="{{door}}" class="img"></image>
+    <switch bindchange="duo">舵</switch>
+  </view>
+
+</view>

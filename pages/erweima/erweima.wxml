@@ -1,0 +1,3 @@
+<button open-type="contact" bindcontact="handleContact" type="primary" class="btn">
+  联系我们
+</button>

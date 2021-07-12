@@ -1,0 +1,9 @@
+.LED{
+  height: 100rpx;
+  text-align: center;
+  margin-top: 100rpx;
+}
+.img{
+  width: 75rpx;
+  height: 75rpx;
+}
